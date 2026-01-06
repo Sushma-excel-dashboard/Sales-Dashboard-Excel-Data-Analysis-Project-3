@@ -73,6 +73,8 @@ The dashboard converts raw transactional data into **clear business insights** t
 - Bar charts, line charts, donut charts, and pie charts
 - Product, time-based, and customer-focused analysis
 
+---
+
 ### Sales Dashboard
 
 <p align="center">
@@ -107,9 +109,15 @@ It highlights skills in **data analysis, visualization, dashboard design, and bu
 
 ---
 
-## 📌 Project Preview
-Dashboard screenshots are included in this repository.
+⭐ If you like this project, feel free to star the repository!
 
 ---
 
-⭐ If you like this project, feel free to star the repository!
+## 👤 Author & Contact
+**Name:** Sushma Singh  
+**Role:** Data Analysis | Excel Dashboard Design 
+**Location:** India
+
+📧 Email: sushmasingh9317@gmail.com  
+🔗 GitHub: https://github.com/Sushma-excel-dashboard
+🔗 LinkedIn: https://www.linkedin.com/in/sushma-singh-00737b34b/
