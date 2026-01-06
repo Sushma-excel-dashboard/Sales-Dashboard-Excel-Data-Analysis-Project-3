@@ -76,7 +76,7 @@ The dashboard converts raw transactional data into **clear business insights** t
 ### Sales Dashboard
 
 <p align="center">
-  <img src="https://github.com/Sushma-excel-dashboard/sales-data-analysis-dashboard/blob/main/dashbaord%20pic%20.jpeg" alt="Sales Dashboard">
+  <img src="https://github.com/Sushma-excel-dashboard/Sales-Dashboard-Excel-Data-Analysis-Project-3/blob/main/DASHBOARD%20-3.png ="Sales Dashboard">
 </p>
 
 ## 💡 Project Insights
