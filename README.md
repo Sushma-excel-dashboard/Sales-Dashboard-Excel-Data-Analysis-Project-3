@@ -1,4 +1,4 @@
-# 📊 online store ales Dashboard – Excel Data Analysis Project
+# 📊 online store sales Dashboard – Excel Data Analysis Project
 
 This project showcases an **interactive Sales Dashboard created in Microsoft Excel** using **1200 rows of online store sales data**.  
 The dashboard converts raw transactional data into **clear business insights** to help stakeholders understand sales performance, profitability, customer behavior, and marketing effectiveness.
